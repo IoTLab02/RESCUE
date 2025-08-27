@@ -1,0 +1,8 @@
+OpenMP MOSP Algorithm Timing Results
+====================================
+
+Individual Function Timings:
+updateShortestPath(): 1.5e-05 seconds
+bellmanFord(): 5.3e-05 seconds
+
+Number of OpenMP Threads: 4
